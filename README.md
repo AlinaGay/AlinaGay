@@ -34,9 +34,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-6B4FBB?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 ![YandexGPT](https://img.shields.io/badge/YandexGPT-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![Yandex AI Studio](https://img.shields.io/badge/Yandex_AI_Studio-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 
