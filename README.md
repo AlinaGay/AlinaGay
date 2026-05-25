@@ -1,5 +1,5 @@
 ## Hi there, I'm Alina 👩🏻
-### 👩🏻‍💻 Python Developer/AI Engineer
+### 👩🏻‍💻 Python Backend Developer/AI Engineer
 
 ## Languages and Tools
 <!-- Languages -->
